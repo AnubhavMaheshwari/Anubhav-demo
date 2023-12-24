@@ -1,3 +1,3 @@
 # Anubhav-demo
 This is my first repository.
-Author- Anubhav Mahehwari
+Author- Anubhav Maheshwari
